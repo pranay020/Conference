@@ -15,7 +15,10 @@ body h1{
     flex-wrap: wrap;
     justify-content: space-around; 
     width: 102%;
+<<<<<<< HEAD
 
+=======
+>>>>>>> b9b7710efcfd15d3e5414a0042d1c4e840a37e1b
 }
 .card{
     box-shadow: 5px 5px 5px 4px rgba(57, 57, 58, 1);
