@@ -1,5 +1,5 @@
 # ✨ ICSEIC_WEBSITE(CMRU) ✨
-`http://icseic2025.me/`
+<a href="http://icseic2025.me/Conference/">http://icseic2025.me/Conference/</a>
  
 
     
