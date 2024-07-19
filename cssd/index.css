@@ -14,7 +14,7 @@ body h1{
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-around; 
-    width:102%;
+    width:101%;
 }
 .card{
     box-shadow: 5px 5px 5px 4px rgba(57, 57, 58, 1);
